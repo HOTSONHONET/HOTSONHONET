@@ -51,8 +51,8 @@ coder.sayHi()
 ```
 <br>
 
-- 🔭 I'm a senior undergrad pursuing Biomedical Engineering from NIT Rourkela, India (Grad-2022)
-- 👯 Currently, I'm doing an open-source internship at [@CNCF](https://www.cncf.io), with [@OpenMainFrame](https://www.openmainframeproject.org) org, working on porting certain popular MLOps tools (such as Ray) to s390x architecture
+- 🔭 I'm a senior undergrad pursuing Biomedical Engineering from NIT Rourkela, India (Grad-2022).
+- 👯 Currently, I'm doing an open-source internship at [@CNCF](https://www.cncf.io), with [@OpenMainFrame](https://www.openmainframeproject.org) org, working on porting certain popular MLOps tools (such as Ray) to s390x architecture.
 - ⏳ Previously, I have interned as ML engineer and Data Scientist at [@Verisk Analytics](https://www.verisk.com) and [@IceCream Labs](https://icecreamlabs.com) respectively.
 - 💬 If you wish to know more about my technical background, feel free to go through my [resume](https://drive.google.com/drive/folders/1Ec19U-PZKioOBH9C7vWNifctlWEG3mMo?usp=sharing).
 
@@ -83,3 +83,7 @@ coder.sayHi()
 <br>
 
 ![Hotson's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOTSONHONET&show_icons=true&theme=dark)
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=HOTSONHONET&color=blue&style=flat-square)
