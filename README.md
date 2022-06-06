@@ -41,7 +41,7 @@ class Coder:
         self.interests = ["Kaggling", "Competitive Coding", "Volleyball", "Hackathons", "Anime"]
         
     def sayHi(self):
-        print(f"Yo, I {self.name}.")
+        print(f"Yo, I'm {self.name}.")
     
     
 
