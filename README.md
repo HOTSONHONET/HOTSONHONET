@@ -58,21 +58,25 @@ coder.sayHi()
 
 <br>
 
-<!-- ### Connect with me
+### Connect with me:
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Hotson on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://linkedin.com/in/hotsonhonet)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Hotson on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/hotsonhonet)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Hotson on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/hotsonhonet) -->
+#### *Social Media*
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hotsonhonet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hotsonhonet" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hotsonhonet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hotsonhonet" height="30" width="40" /></a>
-<a href="https://kaggle.com/hotsonhonet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hotsonhonet" height="30" width="40" /></a>
 <a href="https://instagram.com/hotsonhonet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hotsonhonet" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rudraprasad.dash.16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hotsonhonet" height="30" width="40" /></a>
+</p>
+
+#### *Coding profiles*
+
+<p align="left">
+<a href="https://kaggle.com/hotsonhonet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hotsonhonet" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hotson_honet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hotson_honet" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hotsonhonet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hotsonhonet" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hotsonhonet/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hotsonhonet/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hotsonhonet/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hotsonhonet/profile" height="30" width="40" /></a>
 </p>
 
 <br>
