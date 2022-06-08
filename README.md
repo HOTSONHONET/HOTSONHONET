@@ -1,4 +1,4 @@
-### Konnichiwa 🙋🏼‍♂️, I'm Rudra A.K.A Hotson 👋
+### Konnichiwa 🙋🏼‍♂️, I'm Rudra aka Hotson 👋
 
 <!--
 **HOTSONHONET/HOTSONHONET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
