@@ -32,8 +32,8 @@ class Coder:
     class SoftwareEngineer:
         role = "Software Engineer"
         frameworks_and_libraries = ["Flask", "NodeJs", "ReactJs", "Plotly-dash", "ChartJs"]
-        programming_languages = ["Python", "JavaScript", "C++", "GoLang", "SQL"]
-        skills = ["Data Structures & Algorithms", "Object Oriented Programming", "Web Development"]
+        programming_languages = ["Python", "JavaScript", "C++", "SQL"]
+        skills = ["Data Structures & Algorithms", "Object Oriented Programming", "OS", "DBMS", "Web Development"]
         software_and_cloud_services = ["Docker", "GCP", "VSCode", "Git & GitHub", "PostgreSql", "MongoDB"]
         
     def __init__(self, name):
