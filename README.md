@@ -55,7 +55,7 @@ coder.sayHi()
 <li> 🔭 I'm a senior undergrad pursuing Biomedical Engineering from NIT Rourkela, India (Grad-2022).</li>
 <li> 👯 Currently, I'm doing an open-source internship at <a href="https://www.cncf.io" target="blank">@CNCF</a>, with <a href="https://www.openmainframeproject.org" target="blank">@OpenMainFrame</a> org, working on porting certain popular MLOps tools (such as Ray) to s390x architecture.</li>
 <li> ⏳ Previously, I have interned as ML engineer and Data Scientist at <a href="https://www.verisk.com" target="blank">@Verisk Analytics</a>  and <a href="https://icecreamlabs.com" target="blank">@IceCream Labs</a> respectively.</li>
-<li> 💬 If you wish to know more about my technical background, feel free to go through my <a href="https://drive.google.com/file/d/1iHXBJ2k-R8xnBbGIlHtbvNgRNDS291YH/view?usp=share_link" target="blank">resume</a>.</li>
+<li> 💬 If you wish to know more about my technical background, feel free to go through my <a href="https://drive.google.com/file/d/1iHXBJ2k-R8xnBbGIlHtbvNgRNDS291YH/view?usp=share_link](https://drive.google.com/drive/folders/1eqJIQmDSPNYgWa3xI-PCWY6beIlfuHDy?usp=drive_link" target="blank">resume</a>.</li>
 </ul>
     
 <br>
